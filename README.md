@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-make simple project crud case study student with php native
+make simple project crud case study student with php native.
 
 ## Features 
 
